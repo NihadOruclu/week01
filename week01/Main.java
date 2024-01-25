@@ -4,7 +4,13 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Testing");
         System.out.println("Hello World");
-        System.out.println("Hello World");
+        System.out.println("Hell");
+        System.out.println("Hello ");
+        System.out.println("Hello EVERYONE.");
+        
+        
+    
 } 
 
 }
+1
